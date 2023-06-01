@@ -1,3 +1,3 @@
 # SecondGlunadierRepoitory
 Test repository-backup for a personal project
-Glunadier - is a first person arena shooter, in which the player is constrained to using only grenades with different effects.
+"Glunadier" is my personal game project, meant to give me the experience of pulling together a game project all my myself. It's a mix between an arena shooter and a puzzle game, where the main catch is that you can only use non-lethal grenades to defend yourself.
